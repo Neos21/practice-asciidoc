@@ -1,0 +1,18 @@
+= Document Title
+
+== Headline 1
+
+本文
+
+=== Headline 2
+
+*太字*
+
+==== Headline 3
+
+// コメント
+
+===== Headline 4
+
+改行 +
+改行
